@@ -179,7 +179,7 @@ int main() {
 \section{Результат работы программы}
 \begin{figure}[h!]
 \lefting
-\includegraphics[widht=0.8\textwidth]{изображение_2026-06-17_192222001.png}
+\includegraphics[widht=0.8\textwidth]{изображение_2026-06-22_133049055.png}
 \caption{Скриншот выполнения программы}
 \label{fig:screenshot}
 \end{figure}
